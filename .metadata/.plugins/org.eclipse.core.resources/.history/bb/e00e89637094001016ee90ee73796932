@@ -1,0 +1,5 @@
+package com.tutedude.proctoring.model;
+
+public class DetectionEvent {
+
+}

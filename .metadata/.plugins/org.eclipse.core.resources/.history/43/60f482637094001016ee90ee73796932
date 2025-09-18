@@ -1,0 +1,5 @@
+package com.tutedude.proctoring.service;
+
+public class ProctoringService {
+
+}

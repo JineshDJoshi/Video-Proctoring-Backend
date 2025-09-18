@@ -1,0 +1,5 @@
+package com.tutedude.proctoring.controller;
+
+public class ProctoringController {
+
+}
